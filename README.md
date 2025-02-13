@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AliMazharSadat
 - 👀 I’m interested in NLP | LLM
-- 🌱 I’m currently involved in Enhancing User Search Experience through Leveraging Pre-trained LLMs
+- 🌱 I recently accomplished "Enhancing User Search Experience through Leveraging Pre-trained LLMs"
 - 💞️ I’m looking to collaborate on NLP | LLM projects
 - 📫 How to reach me (https://www.linkedin.com/in/s-ali-mazhar-sadat-737353159/)
 
