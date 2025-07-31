@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AliMazharSadat
-- 👀 I’m interested in Artificial Intelligence
-- 🌱 I recently accomplished "Enhancing User Search Experience in E-Commerce through Leveraging Pre-trained LLMs"
-- 💞️ I’m looking to collaborate on LLM projects
+- 👀 I recently joined Stordis as Network Orchestration and AI Engineer
+- 💞️ I'm deeply passionate about AI
 - 📫 How to reach me (https://www.linkedin.com/in/s-ali-mazhar-sadat-737353159/)
 
 <!---
