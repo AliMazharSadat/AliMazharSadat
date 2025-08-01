@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @AliMazharSadat
-- 👀 I recently joined Stordis as Network Orchestration and AI Engineer
+- 👋 Hi, I’m Ali Mazhar Sadat
+- 👀 I joined Stordis as Network Orchestration and AI Engineer
 - 💞️ I'm deeply passionate about AI
 - 📫 How to reach me (https://www.linkedin.com/in/s-ali-mazhar-sadat-737353159/)
 
