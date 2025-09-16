@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ali Mazhar Sadat
-- 👀 I joined Stordis as Network Orchestration and AI Engineer
+- 👀 I joined Stordis as Junior Value Driven Software Delivery Manager
 - 💞️ I'm deeply passionate about AI
 - 📫 How to reach me (https://www.linkedin.com/in/s-ali-mazhar-sadat-737353159/)
 
